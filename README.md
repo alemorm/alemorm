@@ -9,7 +9,7 @@
 
 <!-- Links -->
 [ucsfonboarding]: https://alemorm.github.io/ucsf-radiology-getting-started/
-[lightsensing]: https://alemorm.github.io/SmartLight
+[lightsensing]: https://alemorm.github.io/alemorm/SmartLight
 [homesensing]: https://github.com/alemorm/DistributedHomeSensing
 [JupyterLab]: https://github.com/jupyterlab
 [VSCode]: https://github.com/microsoft/vscode
