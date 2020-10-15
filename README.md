@@ -1,7 +1,7 @@
 ### Welcome to my profile!
 
 - 🔭 I’m currently working on personal projects such as my [UCSF Radiology onboarding website][ucsfonboarding], [smart light][lightsensing], and my [smart home project][homesensing]
-- 🌱 I’m currently learning about embedded operating systems (RTOS), network programming (TCP IP) and TypeScript
+- 🌱 I’m currently learning about embedded operating systems (RTOS), network programming (TCP IP) and web development (TypeScript)
 - 👯 I’m looking to collaborate on open source projects I love like [JupyterLab] and [VSCode]
 - 🤔 I’m looking for help with improvement suggestions and contributions to my [UCSF Radiology onboarding website](https://alemorm.github.io/ucsf-radiology-getting-started/)
 - 💬 Ask me about my research (Applied Machine Learning in Musculoskeletal Imaging) or anything at all!
